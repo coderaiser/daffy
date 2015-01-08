@@ -15,14 +15,10 @@
     "patch"
   ],
   "license": "MIT",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "modules",
-    "test",
-    "tests"
+    "modules"
   ],
   "dependencies": {
     "google-diff-match-patch": "~0.1.0"
