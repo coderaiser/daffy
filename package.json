@@ -1,6 +1,6 @@
 {
   "name": "daffy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "create and apply patch",
   "main": "lib/daffy.js",
   "dependencies": {
